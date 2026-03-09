@@ -1,0 +1,165 @@
+KNOWLEDGE BASE: HR Salary Negotiation — Expert Transcripts
+============================================================
+
+TRANSCRIPT T001 — Senior Software Engineer
+Outcome: ACCEPTED | Gap: 8% | Ask: ₹28L → Settled: ₹25.5L + ₹2L bonus
+------------------------------------------------------------------------
+HR: Our band tops at ₹26L fixed. What drives your ₹28L — is it total comp or fixed specifically?
+Candidate: I want security of higher fixed. Current CTC ₹24L, hoping for 15% jump.
+HR: Our ₹25.5L fixed + ₹2L guaranteed bonus = ₹27.5L guaranteed — close to your ask.
+    After year one, variable can reach ₹4L based on performance.
+Candidate: Is the variable truly achievable?
+HR: Last year 78% of engineers at this level earned 80%+ of variable. I can share data.
+Candidate: That context changes things. I'll accept ₹25.5L + bonus.
+
+TECHNIQUES: Transparency about band | Reframe fixed vs total CTC |
+            Data-backed variable | Guaranteed bonus as bridge
+
+
+TRANSCRIPT T002 — Product Manager
+Outcome: ACCEPTED | Gap: 10% | Ask: ₹35L → Settled: ₹31.5L + title upgrade
+------------------------------------------------------------------------
+HR: Budget is ₹31.5L. What matters more — the number today or your trajectory in 18 months?
+Candidate: Both. I've been PM 4 years — don't want to feel like I'm starting over.
+HR: I can propose Senior PM instead of PM. That puts you in the next band (ceiling ₹38L)
+    at your very next review in six months. I'll add a written band reassessment clause.
+Candidate: If that's in writing, I'll accept ₹31.5L.
+
+TECHNIQUES: Title upgrade | Written early-review commitment |
+            Reframe today vs trajectory | Band ceiling transparency
+
+
+TRANSCRIPT T003 — Data Analyst  (LOSS CASE — study this)
+Outcome: DECLINED | Gap: 20% | Ask: ₹18L | Max: ₹15L
+------------------------------------------------------------------------
+HR: Our maximum is ₹15L. Any package structure that could make this work?
+Candidate: ₹3L short of my EMI needs. This doesn't work.
+HR: Could a ₹1.5L joining bonus bridge a short-term gap?
+Candidate: It helps once but my monthly commitment doesn't change.
+HR: I'd rather be honest than overpromise. Please keep us in mind for future roles.
+Candidate: Appreciate the honesty. I have to decline.
+
+LESSON: Gaps above ~15% on fixed pay are very hard to close without a band change.
+        Joining bonus FAILS when the concern is recurring monthly affordability (EMIs).
+        Graceful exits preserve future hiring relationships.
+
+
+TRANSCRIPT T004 — Finance Manager (Competing Offer)
+Outcome: ACCEPTED | Gap: 9% | Competitor: ₹32L | Our offer: ₹29L
+------------------------------------------------------------------------
+Candidate: I have an offer from XYZ Corp at ₹32L. Can you match it?
+HR: I can't match ₹32L on fixed — our ceiling is ₹29L. But is their offer the dream job,
+    or is ours? If the roles are comparable, other dimensions matter.
+Candidate: Your brand and stability matter. The role here is more interesting.
+HR: We offer 25 days PTO vs 18 industry standard. ESOP vests at year one, not two.
+    Parent health cover at zero premium — ₹80K/year value. Gap narrows considerably.
+Candidate: I hadn't factored ESOP and parent cover.
+HR: Plus a ₹1.5L joining bonus bridges the year-one gap — effectively ₹30.5L CTC year 1.
+Candidate: With the joining bonus and benefits math, I'm comfortable accepting.
+
+TECHNIQUES: Acknowledge competitor honestly | Quantify non-cash benefits in ₹ |
+            ESOP articulation | Joining bonus for year-one bridge
+
+
+TRANSCRIPT T005 — DevOps Engineer (Internal Restructuring — Pay Reduction)
+Outcome: ACCEPTED | Current: ₹22L | New band max: ₹19.8L
+------------------------------------------------------------------------
+HR: The new role band is ₹19.8L — not a reflection of your performance, purely band mismatch.
+Candidate: You're asking me to take a pay cut. That's hard.
+HR: Proposal: ₹19.8L fixed + ₹0.7L/month skills retention allowance (contractually
+    guaranteed 24 months) = ₹20.5L effective. Justified by tenure.
+Candidate: What happens after 24 months?
+HR: Our approved compensation roadmap shows this band revised upward. I'll show it in writing.
+Candidate: If I see it in writing, I can agree.
+
+TECHNIQUES: Separate pay change from performance | Hybrid structure |
+            Skills retention allowance | Written roadmap commitment
+
+
+TRANSCRIPT T006 — Marketing Lead
+Outcome: ACCEPTED | Gap: 12% | Ask: ₹24L | Offer: ₹21L
+------------------------------------------------------------------------
+HR: We're at ₹21L. What is your ₹24L number based on?
+Candidate: Current job ₹21.5L — hoping for 10% step-up for seniority.
+HR: This role owns two product lines from day one. Most Marketing Leads launch their first
+    independent campaign within 60 days — a ₹26–28L role by year two.
+Candidate: Growth is faster here?
+HR: Three of our last four Marketing Leads were promoted within 14 months.
+    I can connect you with one to verify. At ₹21L today, you're likely at ₹26L in 14 months.
+Candidate: If that peer reference checks out, I'm in.
+
+TECHNIQUES: Peer reference offer | Growth trajectory with data |
+            Role scope expansion | Return-on-patience argument
+
+
+TRANSCRIPT T007 — Legal Counsel (Hard Negotiator)
+Outcome: ACCEPTED | Anchor: ₹45L | Budget: ₹42L | Settled: ₹42.75L
+------------------------------------------------------------------------
+Candidate: ₹45L is the median for my profile. I won't go below that.
+HR: Our benchmarking shows ₹42–44L for your experience band (7.5 years) — 60th percentile.
+    Structured counter: ₹42L fixed + ₹0.75L guaranteed quarterly allowance = ₹45L CTC.
+    The ₹0.75L is contractually locked for 2 years.
+Candidate: If it's guaranteed and in the contract, I can accept.
+
+TECHNIQUES: Counter-benchmark data | Structured allowance to bridge gap |
+            Contract clause transparency | Percentile reframe
+
+
+TRANSCRIPT T008 — Customer Success Manager (10% Pay Reduction)
+Outcome: ACCEPTED | Current: ₹16L | New band: ₹14.4L
+------------------------------------------------------------------------
+HR: Restructuring revised this band to ₹14.4L — affects 12 people, not about you.
+Candidate: ₹1.6L cut. I can't absorb that overnight.
+HR: Phased approach: months 1–6 stay at ₹16L, months 7–12 at ₹15.2L, month 13 at ₹14.4L.
+    By then your performance review may partially offset the delta.
+Candidate: The phased approach is fair.
+HR: Plus written commitment: if rated 'Exceeds' at 12-month review, band exception process
+    will be initiated for you specifically.
+Candidate: With phased plan and that commitment, I accept.
+
+TECHNIQUES: Phased reduction | Empathy + context for restructuring |
+            Performance-linked recovery | Written exception commitment
+
+
+============================================================
+FAQ — NEW HR EXECUTIVE GUIDE
+============================================================
+
+Q: Is it possible to convince a recruit to accept 10% less static pay?
+A: Yes, with these conditions:
+   1. Quantify non-monetary benefits in ₹ (ESOP, PTO, parent cover)
+   2. Offer written commitment on early review or title upgrade
+   3. Candidate's concern must be long-term trajectory, not monthly cash flow
+   If candidate has high EMIs, 10% less static pay is nearly impossible to close.
+
+Q: When does a joining bonus work?
+A: WORKS: gap is 5–12%, concern is one-time (unvested ESOP, relocation).
+   FAILS: concern is recurring monthly affordability (EMIs, rent).
+
+Q: How do I handle a competing offer?
+A: 1. Ask "Is their offer the dream job or is ours?" — get them to state their preference
+   2. Quantify non-cash benefits in ₹ (PTO days × daily rate, ESOP, insurance value)
+   3. Add joining bonus to bridge year-one gap
+   4. If they still choose competitor, exit gracefully and keep the door open
+
+Q: What salary gap is realistically closeable?
+A: Up to 8%   → easily closeable with total comp reframe
+   8–12%      → closeable with title upgrade + written early review
+   12–15%     → possible with strong non-monetary package + peer references
+   Above 15%  → very difficult; be transparent early
+   Above 20%  → almost always declines; graceful exit is best strategy
+
+Q: How do I reduce someone's salary during restructuring?
+A: 1. Separate the cut from their performance — it is NOT about them
+   2. Use phased reduction over 6–12 months instead of immediate cut
+   3. Skills retention allowance as contractual bridge component
+   4. Written roadmap showing when band recovers
+   5. Performance-linked exception process if they exceed targets
+
+Q: What non-monetary benefits have real ₹ value?
+A: - Extra PTO: 7 extra days × (annual salary / 260) = real rupee value
+   - Parent health cover: ₹60,000–₹1,20,000/year at zero premium
+   - ESOP: intrinsic value at last round valuation, compare vesting cliffs
+   - Learning budget: ₹50,000–₹1,00,000/year
+   - WFH savings: ₹2,000–₹5,000/month on commute
+   - Meal vouchers, fuel allowance: tax-advantaged components
