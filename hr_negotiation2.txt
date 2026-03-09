@@ -1,0 +1,188 @@
+KNOWLEDGE BASE: HR Salary Negotiation — Extended FAQ (30 Questions)
+====================================================================
+
+Q01: How do I open a salary negotiation without sounding aggressive?
+A: Start with curiosity, not confrontation. Say: "Before we discuss numbers, I'd love to
+   understand what's most important to you in this role — is it the fixed component, total
+   package, growth, or something else?" This shifts the conversation from positional
+   bargaining to interest-based negotiation and gives you valuable anchoring information.
+
+Q02: The candidate says "I have another offer." How do I respond without panicking?
+A: Stay calm and ask: "That's great — congratulations. Can I ask, if both offers were
+   identical on paper, which role would you choose?" If they say yours, you've won on
+   value — now close the gap on numbers. If they say the other, find out why and address
+   that reason directly. Never match blindly without knowing what you're competing on.
+
+Q03: How do I negotiate with a candidate who refuses to disclose their current salary?
+A: Don't push. Instead, anchor from your side: "Our band for this role is ₹X to ₹Y.
+   Does that range work for you?" This puts the frame on your terms without requiring
+   their disclosure. In many regions, asking for current salary is also legally restricted.
+
+Q04: A candidate accepted verbally but is now asking for more. What do I do?
+A: Acknowledge first: "I appreciate you coming back to me before we signed documents."
+   Then hold firm unless there's new information: "Our offer was based on the full picture
+   we discussed. Has something changed that I should know about?" Only reopen if there's
+   a genuine new factor — competing offer, relocation costs, etc.
+
+Q05: How do I negotiate with a very senior candidate (VP/Director level)?
+A: Senior candidates negotiate on total wealth creation, not monthly salary. Lead with
+   ESOP quantum and vesting schedule, board-level visibility, and long-term incentive
+   plans. Salary is often secondary. Frame it as: "Let me show you the full wealth
+   creation picture over a 4-year horizon."
+
+Q06: What do I say when a candidate asks: "Is this your best offer?"
+A: Be honest but strategic. If it is: "Yes, this is the maximum I'm authorised to offer.
+   I want to be respectful of your time." If it isn't: "This is our standard offer for
+   this band. If there are specific elements you'd like to discuss, I'm open to that
+   conversation." Never lie — candidates remember, and it damages trust.
+
+Q07: How do I handle a candidate who keeps moving the goalposts?
+A: Name the pattern gently: "I want to make sure we reach a place that works for both
+   of us. Could we agree on what 'yes' looks like for you today, so I know what to
+   work toward?" This forces them to commit to a clear condition, preventing endless
+   movement. If they can't state a condition, they may not be serious.
+
+Q08: A candidate says their spouse/family needs them to earn more. How do I respond?
+A: Validate empathetically: "I completely understand — this is a family decision, not
+   just a professional one." Then pivot to total value: "Let me show you the full
+   financial picture including the health cover, ESOP potential, and performance
+   bonus, so your family has the complete number to evaluate."
+
+Q09: How do I negotiate with a freshly promoted candidate who now has a higher title?
+A: Their new title may not yet have the market premium at their current employer. Ask:
+   "Has your compensation been revised to reflect the new title?" If not, point out:
+   "Our offer already prices in the seniority level — you'd be stepping in fully valued
+   from day one, rather than waiting for your next appraisal cycle."
+
+Q10: What's the best way to handle silence after making an offer?
+A: Let the silence sit for 5–7 seconds. Resist the urge to fill it or sweeten the offer
+   unprompted. If silence extends beyond 10 seconds, ask: "What's going through your
+   mind right now?" This invites them to share their concern rather than you guessing
+   and over-conceding.
+
+Q11: How do I convince a candidate to relocate for a lower salary than they expected?
+A: Quantify the relocation support: lump-sum allowance, temporary housing, school
+   admission support if they have children. Then compare cost of living: "₹20L in
+   Bangalore has the purchasing power of ₹26L in Mumbai — your real standard of
+   living actually improves." Use a cost-of-living index to make this concrete.
+
+Q12: The candidate's ask is within budget but at the top. Should I offer the maximum?
+A: No — always leave room. Start at 85–90% of your max. This gives you headroom to
+   move if they push back, and candidates who accept the first offer sometimes feel
+   they left money on the table, which creates early regret. A slight negotiation
+   actually increases offer satisfaction.
+
+Q13: How do I explain why our salary is below market without sounding defensive?
+A: Reframe the comparison: "Our fixed pay is calibrated at the 55th percentile of
+   market, by design — we make up the difference through higher variable potential,
+   ESOP, and a faster promotion cycle. We find this attracts people who are confident
+   in their performance." This turns a weakness into a self-selection signal.
+
+Q14: A mid-level candidate is asking for a C-suite level salary. How do I handle it?
+A: Don't dismiss — explore: "Help me understand how you arrived at that number. Are
+   you benchmarking against a specific role or company?" Often it's based on a friend's
+   story or incorrect data. Share your benchmarking source calmly. If they hold firm
+   unreasonably, a graceful exit is better than forcing a mismatch.
+
+Q15: How do I negotiate with a candidate who is currently unemployed?
+A: Be respectful — don't exploit their situation. Exploiting urgency creates resentment
+   and early attrition. Make a fair offer and be transparent: "We're not pricing this
+   based on your current situation — we're pricing it for the role and your skills."
+   Candidates who feel treated fairly are more loyal.
+
+Q16: How do I close a negotiation that has been going back and forth for two weeks?
+A: Set a deadline with empathy: "I want to give you the time you need, and I also want
+   to be transparent — we have another strong candidate we need to respond to by [date].
+   I'd love for it to be you. Is there one thing we could resolve today that would let
+   you say yes?" This creates urgency without aggression.
+
+Q17: What do I do if the hiring manager promised a number I can't honour in the offer?
+A: Acknowledge the gap immediately and take ownership: "I owe you an apology — there
+   was a miscommunication on our end, and the offer doesn't reflect what [manager] may
+   have indicated. Let me explain what I can do and see if we can find a path forward."
+   Never make the candidate feel they misheard. The error is yours to own.
+
+Q18: How do I handle a candidate negotiating for a role they are overqualified for?
+A: Be direct: "I want to make sure this role will keep you engaged in 12 months. Can
+   we talk about what draws you to this level?" If their reasons are genuine (lifestyle,
+   work-life balance), proceed. If they seem to be settling, flag it — a bored employee
+   who leaves in 6 months costs more than a declined offer.
+
+Q19: A candidate wants equity but we don't have an ESOP program. What do I offer instead?
+A: Offer performance-linked long-term incentives (LTI): a cash bonus tied to company
+   valuation milestones or profit sharing. Frame it as: "We don't have a formal ESOP
+   yet, but here's how you participate in the company's growth financially." If the
+   company is pre-ESOP, get a written commitment that the candidate will be in the
+   first ESOP pool when it launches.
+
+Q20: How do I negotiate a notice period buyout into the offer?
+A: Make it a separate line item: "We'll cover up to ₹X as a notice period buyout,
+   paid as a joining bonus against proof of your resignation letter and final settlement
+   document." Cap it clearly and tie it to documentation — don't offer open-ended
+   buyout commitments, as these can become expensive and contested.
+
+Q21: The candidate wants to negotiate on work-from-home days. How do I handle this?
+A: If policy is fixed, be clear upfront. If there's flexibility, use it as a lever:
+   "I can't move on the base, but I can lock in 3 WFH days per week in writing in your
+   offer letter — which is worth roughly ₹3,000–₹5,000/month in commute and time saved."
+   WFH flexibility has real monetary value and high perceived value.
+
+Q22: How do I re-engage a candidate who rejected our offer three months ago?
+A: Reach out with something new: "I wanted to reconnect — since we last spoke, the role
+   has evolved and we've revised the compensation band. Would you be open to a
+   15-minute call?" Never just reopen the same offer. Show that something has changed —
+   band revision, title change, or project scope — otherwise you signal desperation.
+
+Q23: How do I negotiate with a candidate referred by a senior internal employee?
+A: Treat them identically to any other candidate — no special salary commitments
+   upfront. Brief the referring employee in advance: "We'll make a fair, market-aligned
+   offer. I want to make sure [candidate] joins for the right reasons." Referral pressure
+   on compensation leads to internal equity problems and resentment from peers.
+
+Q24: A candidate is comparing our startup with a large MNC offer. How do I compete?
+A: Don't try to match on fixed salary — compete on a different axis entirely. Lead with:
+   ownership ("you'll run this function, not execute tasks"), speed ("you'll make
+   decisions that would take 2 years to reach you at an MNC"), and wealth creation
+   ("here's what your ESOP could be worth at our next funding round or exit"). The
+   MNC candidate who joins a startup for salary rarely stays.
+
+Q25: How do I handle a candidate who wants a salary higher than their future manager's?
+A: This is an internal equity issue — flag it honestly: "I have to be transparent: this
+   would create a compensation inversion with your reporting manager, which our policy
+   doesn't allow. Here's what I can do structurally..." Options include a different
+   reporting line, title adjustment, or deferred salary increase tied to manager's
+   next review. Never create the inversion silently — it always surfaces and creates
+   team conflict.
+
+Q26: What should I do if a candidate accepts and then tries to renegotiate on joining day?
+A: Hold firm with empathy: "I understand joining is a big step and feelings can shift.
+   Our offer was agreed in writing and we've held the position for you. I'm not able
+   to revise at this stage, but I want to make sure you're confident about the decision.
+   What specific concern has come up?" Address the concern, not the number.
+
+Q27: How do I negotiate with a candidate who has a higher salary than our entire team?
+A: Be honest early: "I want to share our team's compensation context so you can make
+   an informed decision — this role is structured at ₹X, which is below your current
+   level. I don't want to waste your time if that's a hard constraint." If they proceed,
+   document that they understand the pay structure. This prevents future resentment.
+
+Q28: A candidate is asking for a sign-on bonus to cover their annual bonus forfeiture.
+A: This is legitimate and common. Ask for documentation: "If you can share your last
+   bonus letter or offer letter showing the forfeited amount, I'll build a business case
+   to match up to 80% of that as a joining bonus." Cap it and tie it to a clawback
+   clause: if they leave within 12 months, 50% is returned. This protects both sides.
+
+Q29: How do I say no to a salary request without losing the candidate?
+A: The formula: Validate → Explain → Offer an alternative → Invite dialogue.
+   "I hear you — ₹X is a fair ask for your profile. Our ceiling for this band is ₹Y,
+   and I can't go above that without a re-grade. What I can do is [title upgrade /
+   early review / guaranteed bonus]. Would either of those make this work for you?"
+   A 'no' with an alternative keeps the conversation alive. A bare 'no' ends it.
+
+Q30: What are the top 5 mistakes new HR executives make in salary negotiations?
+A: 1. Revealing the maximum budget too early — always start below your ceiling.
+   2. Filling silence with concessions — silence is not rejection, it's thinking.
+   3. Negotiating only on fixed salary — total comp has many more levers.
+   4. Making verbal promises not in the offer letter — always put it in writing.
+   5. Taking candidate pushback personally — it's a professional process, not a
+      criticism of your judgment. Stay curious, not defensive.
